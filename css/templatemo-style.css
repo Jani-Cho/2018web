@@ -67,7 +67,7 @@ strong {
 
 p {
     color: #888;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 300;
     line-height: 28px;
     letter-spacing: 0.2px;
@@ -406,7 +406,7 @@ a:hover, a:active, a:focus {
 
 #about .about-thumb,
 #skills .skill-thumb {
-  padding: 22px 32px 32px 32px;
+  padding: 22px 45px 32px 45px;
 }
 
 #skills .progress {

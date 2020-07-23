@@ -396,7 +396,9 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #about .about-img {
-    background: url('../images/S__21078144.jpg') no-repeat;
+    background-image: url('../images/S__78086594.jpg');
+    background-position: center bottom;
+
 }
 #about .about-img2 {
     background: url('../images/S__21078148.jpg') no-repeat;
@@ -406,7 +408,7 @@ a:hover, a:active, a:focus {
 
 #about .about-thumb,
 #skills .skill-thumb {
-  padding: 22px 45px 32px 45px;
+  padding: 30px 45px 40px 45px;
 }
 
 #skills .progress {
